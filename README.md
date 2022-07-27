@@ -12,6 +12,8 @@ If you are interested in joining our group at the University of Maryland, please
 
 - You can reach me :woman_teacher: at: mjmolina@umd.edu
 
+_Fun fact: My dog's name is Cumulus :cloud: (featured in my profile avatar)._
+
 <!--
 **mariajmolina/mariajmolina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,5 +24,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- ⚡ Fun fact: ...
 -->
