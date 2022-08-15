@@ -1,4 +1,4 @@
-### Greetings! :woman_technologist:
+### Greetings!
 
 Thanks for stopping by! 
 
