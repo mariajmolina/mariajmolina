@@ -8,9 +8,9 @@ Our research group at the University of Maryland focuses on climate and extremes
 
 You can find our group page [here](https://mariajmolina.github.io/).
 
-If you are interested in joining our group at the University of Maryland, please feel free to get in touch!
+If you are interested in joining our group as a graduate researcher, please note that all interested applicants must apply [online](https://aosc.umd.edu/education/ms-phd/prospective-students/admissions) to be considered.
 
-- You can reach me :woman_teacher: at: mjmolina@umd.edu
+- You can reach me :woman_teacher: at: mjmolina@umd.edu; please note that detailed information about our department is available [online](https://aosc.umd.edu/).
 
 _Fun fact: My dog's name is Cumulus :cloud: (featured in my profile avatar)._
 
