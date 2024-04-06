@@ -4,7 +4,7 @@ Thanks for stopping by!
 
 My name is Maria J. Molina (she/her) and I am an Assistant Professor at the [University of Maryland in College Park](https://www.umd.edu/) based in the [Department of Atmospheric and Oceanic Science](https://aosc.umd.edu/). I am also affiliated with the [National Center for Atmospheric Research](https://ncar.ucar.edu/) in Boulder, Colorado where I conduct research in collaboration with my colleagues based in the Climate and Global Dynamics Division.
 
-Our research group at the University of Maryland focuses on climate and extremes data science :cyclone::zap::tornado: :cloud_with_rain::sun_with_face::fire::ocean::thermometer::snowflake:
+Our research group at the University of Maryland focuses on **P**redictability and **A**pplied **R**esearch for the **E**arth-system with **T**raining and **O**ptimization (**PARETO**) 💻🌎
 
 You can find our group page [here](https://mariajmolina.github.io/).
 
