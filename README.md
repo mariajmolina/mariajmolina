@@ -12,7 +12,7 @@ If you are interested in joining our group as a graduate researcher, please note
 
 - You can reach me :woman_teacher: at: mjmolina@umd.edu; please note that detailed information about our department is available [online](https://aosc.umd.edu/).
 
-_Fun fact: My dog's name is Cumulus :cloud: (featured in my profile avatar)._
+_Fun fact: My dog's name was Cumulus :cloud: (featured in my profile avatar) (2015-2024)._
 
 <!--
 **mariajmolina/mariajmolina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
